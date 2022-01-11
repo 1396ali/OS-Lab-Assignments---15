@@ -1,5 +1,5 @@
 
-INSERT INTO Customers (id,name,city,county)
+INSERT INTO Customers (id,name,city,country)
 VALUES (1, "Ali", "Mashhad", "Iran"), (2, "Sogand", "USA", "California"), 
 (3, "Pepe", "Rio", "Brazil") ;
  
